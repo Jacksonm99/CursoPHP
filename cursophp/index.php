@@ -1,2 +1,10 @@
 <?php
-  echo "ola mundo";
+$nome = "Jackson";
+$sobrenome ="Manoel";
+
+$nomeCompleto = $nome . " " . $sobrenome;
+echo $nomeCompleto;
+
+
+
+?>
